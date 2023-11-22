@@ -7,3 +7,8 @@ This code aims to implement the Gaussian Kernel Fuzzy C-means algorithm with wid
 All information and step-by-step instructions are present in the article.
 The article proposes 4 similar algorithms related to the topic of fuzzy c-means. This implementation is related to the KFCM-K-W.2 method, suggested in section 3.1. Gaussian kernel fuzzy c-means with width parameters
 computation.
+
+The code is applied to the following datasets for results: 
+
+* Iris dataset
+* "Multiple features" do site uci machine learning repository (https://archive.ics.uci.edu/dataset/72/multiple+features). Considering 3 datasets: mfeat-fac, mfeat-fou, mfeat-zer.
